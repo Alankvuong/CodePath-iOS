@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/M5bWDaZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/4mSXoL3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 - I didn't know how to use XCode's UI at first which made it a bit difficult for me to start the project. However, once I was able to access the object library and reserached more about how to use the interface, it became much easier.
 - I didn't understand how to grab text from the text fields until I read the official documentation.
-- I didn't know how to rename or edit an object's properties.
+- I didn't know how to rename or edit an object's properties. 
 
 ## License
 
