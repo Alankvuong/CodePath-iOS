@@ -9,7 +9,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -22,7 +21,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4pZNaMU"><a href="//imgur.com/a/4pZNaMU">CodePath - Unit1_Flix</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script><br>
+![](https://i.imgur.com/Gykq5Ei.gif)
+
+
 
 ### Notes
 Describe any challenges encountered while building the app.
+- Some challenges building this app included figuring out how to things that were newly introduced such as creating a new ViewController
+- I didn't know how to create a class so I had to rewatch the vidos a few time
+- I'm still a bit confused on XCode's UI which took a while to figure out
+- I messed up my git repostory a few times so I had to remake my repository on my local.
